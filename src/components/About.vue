@@ -128,7 +128,7 @@ p{
 
 @media(max-width:380px){
   h3{
-    font-size:22px;
+    font-size:23px;
   }
 }
 </style>
